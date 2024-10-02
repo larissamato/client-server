@@ -4,7 +4,7 @@ Este é um sistema de chat multiusuário síncrono desenvolvido em Python, utili
 
 ## Funcionalidades
 
-- **Cliente com Interface Gráfica**: Interface simples utilizando Tkinter.
+- **Cliente com Interface Gráfica**: Interface utilizando React.
 - **Conexão ao Servidor**: O cliente solicita ao usuário um nome e uma porta, e se conecta ao servidor.
 - **Histórico de Mensagens**: Cada cliente mantém um histórico de mensagens exibido em sua interface.
 - **Notificações de Entrada/Saída**: O servidor notifica todos os clientes quando um novo usuário entra ou sai do chat.
